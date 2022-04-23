@@ -36,3 +36,8 @@ Unsurpsingly, it seems that the first word cloud associated with the first map i
 [Cloud 2](https://github.com/soriabjo/geog458_lab02/blob/main/img/screenshot_of_wordcloud-2.png)
 
 It seems that later in the day, the senitment of Twitter users' tweets are happier. With the workweek almost ending, it makes sense that Tweets would begin to be more uplifting. We can see in the cloud with the second map, that 'Thank', 'Love', 'Great', and other words are popping up. With games starting soon, I would guess that the next word cloud when games begin to have more NBA specific tweets, such as player names, basketball vocabulary, and more.
+
+
+### This is the correct preview of README.md, but a bug has occurred on GitHub redirect
+
+![Correct preview!](Screenshot_562.png "Correct format")
