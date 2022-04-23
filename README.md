@@ -9,6 +9,7 @@ Although early, the NBA playoffs have had a number of exciting games and match u
 Pulling geo-tagged data from two different times in a day would allow me check the United States activity before games started and just before tip-off of games. It is likely to assume that higher populated cities would contain more teams. Furthermore, it wouldn't be a bad guess to think that cities that have an NBA team in the playoffs would also have a higher tweet density with respect to geolocation.
 
 ### Map 1 - Twitter Activity Well Before NBA Playoff Games
+### READ BELOW 
 ### For some reason, GitHub links an incorrect page for the URL after the /img, please click the embedded links for the correct pictures
 ![First Map](img\screenshot_of_map-1.png "Early afternoon Twitter activity")
 [Map 1](https://github.com/soriabjo/geog458_lab02/blob/main/img/screenshot_of_map-1.png)
